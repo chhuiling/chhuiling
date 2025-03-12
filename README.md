@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[![website](./img/linkedin-light.png)](https://www.linkedin.com/in/huiling-chen-918929208/)
+[![website](./img/linkedin-dark.png)](https://www.linkedin.com/in/huiling-chen-918929208/)
+&nbsp;&nbsp;
+[![website](./img/art-light.png)](https://www.artstation.com/huilingchen)
+[![website](./img/art-dark.png)](https://www.artstation.com/huilingchen)
+
 <!--
 **chhuiling/chhuiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
