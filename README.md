@@ -4,14 +4,26 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.png)](https://www.linkedin.com/in/huiling-chen-918929208/#gh-light-mode-only)
-[![website](./img/linkedin-dark.png)](https://www.linkedin.com/in/huiling-chen-918929208/#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/huiling-chen-918929208/#gh-light-mode-only">
+    <img src="./img/linkedin-light.png" width="40" height="40">
+</a>
+<a href="https://www.linkedin.com/in/huiling-chen-918929208/#gh-dark-mode-only">
+    <img src="./img/linkedin-dark.png" width="40" height="40">
+</a>
 &nbsp;&nbsp;
-[![website](./img/art-light.png)](https://www.artstation.com/huilingchen#gh-light-mode-only)
-[![website](./img/art-dark.png)](https://www.artstation.com/huilingchen#gh-dark-mode-only)
+<a href="mailto:chhuiling.art@gmail.com#gh-light-mode-only">
+    <img src="./img/message-light.png" width="40" height="40">
+</a>
+<a href="mailto:chhuiling.art@gmail.com#gh-dark-mode-only">
+    <img src="./img/message-dark.png" width="40" height="40">
+</a>
 &nbsp;&nbsp;
-[![Gmail Light](./img/message-light.png)](mailto:chhuiling.art@gmail.com#gh-light-mode-only)
-[![Gmail Dark](./img/message-dark.png)](mailto:chhuiling.art@gmail.com#gh-dark-mode-only)
+<a href="https://www.artstation.com/huilingchen#gh-light-mode-only">
+    <img src="./img/art-light.png" width="40" height="40">
+</a>
+<a href="https://www.artstation.com/huilingchen#gh-dark-mode-only">
+    <img src="./img/art-dark.png" width="40" height="40">
+</a>
 
 ### Tech Stack
 
